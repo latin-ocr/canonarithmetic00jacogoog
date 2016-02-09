@@ -1,0 +1,44 @@
+,Immunem aar
+
+mitivam, revertar ad regulas, quibus tabularum propositarum conam·
+ctio perficiatur, postquam pro dato ipsius a valore columnaeI et ,Π
+formatae sunt. Et primum formata columna A, quae suppeditat resi·
+dua minima positiva potestatum a, α’ .. d, quorum postremum est ¹, in·
+scribantur residua illa tabulaeI iis locis, qui respondent argumentis η’,
+sn' p- a. Quae residua si per r,·, ΓΗ, .. r„, denotamus, rice versa
+inscribantur numeri n', au',sn'..p--1 tabulae ΙΙ iis locis qui respondent
+argumentis r,·, r2,ss, 'r3,·, .. r,„,. Ita impleti erunt tabulaeII loci omnes ,
+respondentes argumentis, quae congrua sunt potestati radicis primitivae,
+cuius exponens per η’ divisibilis est. Si habetur n :p- 1, quem casum
+antecedentibus consideravi, fit η’ =1 omnesque tabulae 11 loci impleti
+emnt. Si non habetur n :p- ι, sith argumentum tabulae 11, cui lo·
+cus vacuus respondet. Qui numerus ὂ evadit minimus, si eligis argu·
+mentum monum tabulae Π, cui locus tabulae adhuc vacuus respondet.
+Sit ez gf, agitur de inveniendo indice m seu potius uuo ex valorihus
+>quos induere potest. Qui index erit per n' non divisibilis, cum ex hy·
+. pothesi numerorum η’, sn‘, .. p-1 tabulaeII inscriptorum nullus ad ar·
+,gumentum b pertineat- ,
+
+· Quaerantur residua potestatum 6², 6⁸, ..., usque dum perveniatur
+ad potestatem bs, quae sit infima, cuius residuo ut argumento tabulae Π
+spectato respondeat <locus tabulae iam numero impletus. Numerus s sem·
+per est aut η’ aut fautor ipsius η’. Cum sit gt Ξ g's ‚ erit etiam s nu·
+merus minimus, per quem m multiplicatus producat numerum per n' di· ·
+visibilem. Sit hic numerus in', habetur
+
+ὀΐε- 3⁶⁸⁹ (mod. p).
+
+In hac congruentia noti sunt numeri b et f et tn', ,quorum postremus
+..sumitm ¹e tabula H, in qua respondet residuo ipsius gt ut argumento.
+
+Posito -²².' = ss', fit
+
+aaz μ’ (moa. p), ’
+unde e sequentihus numeris eligendus erit ipsius m valor,
+m=if'‚(t÷n)s‘,(1·÷2n)f,..(t÷(f-1)n)f'.
+
+liquibus reiiciendi sunt numeri (i4kn)f', in 'quibus t-r-ku cums fa· Ι
+ctorem communem habet. Si enim,
+
+ 
+

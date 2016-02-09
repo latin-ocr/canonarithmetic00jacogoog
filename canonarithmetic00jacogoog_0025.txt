@@ -1,0 +1,43 @@
+xr111 Introductis.
+
+- οο g²' (mod, 271), οο ξ g³⁸ ,(mod. sse), to Ξ g“ (mod. 1409) “
+- 10 ξ g⁸⁶ (mod. sess), so ξ 3²³· (mod. 2161). ·
+
+Non ego pro singulis istis exponentibus ipsius g seu trzdtetbm, qui nu·
+· mero -t- to aut - to respondent, regulas particulares condam, sed iam
+tradam methodum generalem, qua commodissime tabulae construantur, ¹
+quibus pro quolibet dato modulo primo p numeri omnes 1, t, s ..p-1
+exhibentur ut diversarum numeri alicuius potestatum residua. Qui nume·
+rus vocatur basis tabulae.
+
+Methodus generales pro modulo primo p numeros t,r‚s ..p -t exhibendi
+’ ut diversorum numeri alicuius potestatum rest'dua.
+
+Sumatur ex arbitrio numerus parvus, facile addendus, ut s, s cet.
+vel to vel qui alius placet, positivus a ueletiam negativus - a. For·
+metur cotumnal numerorum naturalium 1, 2, s ..p - ο. Deinde iuxta
+ponatur, si positivus electus est numerus a, columnaII numerorum a, sa,
+sa cet., qui ab ipso e incipiunt et continuo ipso α augentur, detracto p,
+simulac numerus ultra p crescit. Si clectus est numerus negativus a, for-
+metur colss, quam decrescentem voco, numerorum p - a, p- ea, p- sa, ..
+qui ab ipso p- a incipiunt et continuo 'ipso a diminuuntur, addito p,
+simulac ad numerum negativum pervcnitur. Nisi contrarium adnotetur,
+subintelligam, numerum positivum electum esse ideoque columnam‘H esse
+crescentem· negativo numero electo, columnam Π decrescentem forman·
+dam esse, pressis verbis adiiciam. Si a: r, semel tantum ipse p in sor·
+manda col. Π detrahendus rel addendus erit, si a=s‚ bis etc. Formatis
+columnis Ι et II, invenitur iuxta quodlibet argumentorum t, ο, s ..p-1,
+‹1⁸'1’u eius residuum minimum positivum. Si a = 2, inveniuntur iuxta
+t, r .. filnumeripares2,a..p-1; iuxta ΕξἹ, [ξ’ .. p-1 numeri im·
+pares 1, s .. p-e. Ac generaliter constabit columna ’Π ex a seriebus
+arithmeticis sire crescentibus sire decrescentibus, in ‚quibus singulis est
+eadem differentia ὲ eatque primus terminus inter ο et 041, postremus
+inter p-o-1 et p positus est vel rice versa. . '
+
+Si pro numero satis magno valorum ipsius p eundem retines nu·
+merum a, convenit columnarumI et 11 formationem typis exequi. Quod
+
+quomodo commode fiat, exemplo simplicissimo illustrabo. ’ Sit a=s, ac
+
+ 
+

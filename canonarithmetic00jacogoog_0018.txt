@@ -1,0 +1,54 @@
+1. 11. Numeri
+19 27 13
+2ο 17 25
+21 7 29
+22 28 20
+23 18 17
+tt 8 16
+t 25 29 26
+26 19 19
+et 9 27
+28 30 9
+
+, 2922 s
+
+30 10 1.
+
+His de iis numeris primis adnotatis, quorum ÷10 aut -10 radix primi· ,
+tiva est, pergimus ad reliquos. Etiam pro his' tabula Burcthardwna non
+sine magno usu erit.
+
+Sit p numerus primus 4224- ¹, pro quo n :lif-¹, sive sit ÷(p-r)
+valor minimus ipsius n, qui numerum
+
+10⁸ -t
+
+per p divisibilem reddit. Formantur columnaeI et Π prorsus eadem ra·
+tione atque casibus, quibus to radix primitiva erat, unde dato quolibet
+numero infra ρ columna Π suppeditabit decupla· eius residuum. Cum sit ιο
+ipsius p residuum quadraticum‚ statuere licet
+
+10 Ξ g² (mod. p),
+
+eritque et -ι- g et -g radix primitiva ipsius p. Inveniuntur residua di·
+gnitatum ipsius g parium ς’, 5¹⁴, .. g'“³ absque omni calculo per ean-
+dem methodum qua antecedentibus usus sum. Scilicet si α est residuum
+ipsius 5⁷²⁶, quaeratur columnaeI numerus a, et iuxta positus in columna Π
+est residuum ipsius ἕω. Inventis hac ratione residuis omnibus digni-
+tatum ipsius g parium, reliqui numeri infra p erunt residua dignitatum
+ipsius g imparium. Sit eiusmodi numerus ὂ, quern statuere convenit mi·
+nimum esse e numeris relictis; cuius quadratum vel quadrati residuum si
+est 5¹, invenitur ὁ* inter residua dignitatum parium ipsius g, sive datur
+index ad quern 6¹ pertinet. Qui index si est 20, statuere licet, ipsumb
+pertinere ad indicem β, sive esse b residuum potestatis imparis gl. In·
+em
+
+sumendo in II numerum iuxta nume·
+rum b columnaeI positum; si ille in coll quaeritur, iuxta positus nume·
+
+u] ,
+
+venitur deinde residuum ipsius g
+
+ 
+
